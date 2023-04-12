@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test cartBotton component test if data is on Meetup 1`] = `
+<p
+  data-testid="component"
+>
+  Loading...
+</p>
+`;

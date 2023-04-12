@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`AllMeetupsPage renders correctly 1`] = `
+<DocumentFragment>
+  <section>
+    <h1>
+      All Meetups
+    </h1>
+    <ul
+      class="list"
+    >
+      <p
+        data-testid="component"
+      >
+        Loading...
+      </p>
+    </ul>
+  </section>
+</DocumentFragment>
+`;
